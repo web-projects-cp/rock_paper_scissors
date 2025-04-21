@@ -17,13 +17,12 @@ points.
 [for DEMO click here](https://web-projects-cp.github.io/rock_paper_scissors/)
 
 Home Page :
-
-<img src="https://github.com/web-projects-cp/rock-paper-scissors-UI/blob/master/assets/images/screenshot1.png" alt="Home page" style="width:50%;"/>
+<img src="https://github.com/web-projects-cp/rock-paper-scissors/blob/master/assets/images/screenshot1.png" alt="Home page" style="width:50%;"/>
 
 Game Page :
 
-<img src="https://github.com/web-projects-cp/rock-paper-scissors-UI/blob/master/assets/images/screenshot2.png" alt="Game page" style="width:50%;"/>
+<img src="https://github.com/web-projects-cp/rock-paper-scissors/blob/master/assets/images/screenshot2.png" alt="Game page" style="width:50%;"/>
 
 Report Page :
 
-<img src="https://github.com/web-projects-cp/rock-paper-scissors-UI/blob/master/assets/images/screenshot3.png" alt="Report page" style="width:50%;"/>
+<img src="https://github.com/web-projects-cp/rock-paper-scissors/blob/master/assets/images/screenshot3.png" alt="Report page" style="width:50%;"/>
