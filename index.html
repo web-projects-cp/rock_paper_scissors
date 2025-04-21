@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Rock, Paper, Scissors Game </title>
+  <link rel="stylesheet" href="./script.css">
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <h1> GAME </h1>
+      <button id="home-btn" onclick="location.href = './index.html';"> Home </button>
+    </nav>
+    <main>
+      <header id="banner">
+        <h1> Welcome to Our Rock, Paper, Scissors Game! </h1>
+        <button id="start-btn"> Start </button>
+        <p> "Play the game against the COMPUTER" </p>
+      </header>
+
+      <div id="playground">
+        <div id="title1">
+          <p> Please Click one of the three pictures </p>
+          <h2 id="title"></h2>
+          <h3 id="result"></h3>
+        </div>
+        <div id="game">
+          <button class="rock"> <img src="./assets/images/rock.png" alt="rock" id="rock"> </button>
+          <button class="paper"> <img src="./assets/images/paper.png" alt="paper" id="paper"> </button>
+          <button class="scissors"> <img src="./assets/images/scissors.png" alt="scissors" id="scissors"> </button>
+        </div>
+      </div>
+      
+      <div id="report">
+        <div>
+          <img src="./assets/images/win.jpeg" alt="win" id="win">
+          <img src="./assets/images/lose.jpeg" alt="lose" id="lose">
+          <img src="./assets/images/draw.jpeg" alt="draw" id="draw">
+        </div>
+        <div id="report1">
+          <h1> REPORT </h1>
+          <h3 id="display"></h3>
+          <h2> SCORE </h2>
+          <h3> Player Wins : <span id="playerScore"> </span></h3>
+          <h3> Computer Wins : <span id="computerScore"></span></h3>
+          <p id="final"></p>
+        </div>
+      </div>
+    </main>
+  
+    <footer class="footer-wrapper">
+      <div class="copyright">
+        <p> Copyright &copy; Poonkodi C </p>
+      </div>
+    </footer>
+  </div>
+  <script src="./index.js"></script>
+</body>
+</html>
