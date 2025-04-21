@@ -14,16 +14,16 @@ d) Add a div for displaying results and change all of your console.logs into DOM
 e) Display the running score, and announce a winner of the game once one player reaches 5
 points.
 
-[for DEMO click here](https://cpoonkodi.github.io/rock-paper-scissors-UI/)
+[for DEMO click here](https://web-projects-cp.github.io/rock_paper_scissors/)
 
 Home Page :
 
-<img src="https://github.com/cpoonkodi/rock-paper-scissors-UI/blob/master/assets/images/screenshot1.png" alt="Home page" style="width:50%;"/>
+<img src="https://github.com/web-projects-cp/rock-paper-scissors-UI/blob/master/assets/images/screenshot1.png" alt="Home page" style="width:50%;"/>
 
 Game Page :
 
-<img src="https://github.com/cpoonkodi/rock-paper-scissors-UI/blob/master/assets/images/screenshot2.png" alt="Game page" style="width:50%;"/>
+<img src="https://github.com/web-projects-cp/rock-paper-scissors-UI/blob/master/assets/images/screenshot2.png" alt="Game page" style="width:50%;"/>
 
 Report Page :
 
-<img src="https://github.com/cpoonkodi/rock-paper-scissors-UI/blob/master/assets/images/screenshot3.png" alt="Report page" style="width:50%;"/>
+<img src="https://github.com/web-projects-cp/rock-paper-scissors-UI/blob/master/assets/images/screenshot3.png" alt="Report page" style="width:50%;"/>
